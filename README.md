@@ -1,2 +1,3 @@
 # pavelchausov.github.io
-hexlet study project
+
+nothing interesting here yet
